@@ -1,16 +1,9 @@
 ---
-title: Nouveautés
+title: Historique des nouveautés
+description: Découvre les dernières nouveautés et améliorations apportées à Extinction-MiniJeux
 ---
 
-**Février 2026**
-- Plus besoin de Flash pour pouvoir jouer au jeu
-  - Joue directement depuis ton navigateur, le nouvel exécutable ou Discord
-    - Expérience unifiée, un seul et même client pour tout le monde, que tu joues sur navigateur, Discord ou l'exécutable
-- Interface enrichie
-  - Recherche avancée des cartes pour Aaaah et Forteresse
-  - Système de playlist personnalisée à la volée
-- Système de quêtes
-  - Accomplis des quêtes pour gagner des récompenses (les récompenses arriveront progressivement)
-- Intégration avec Discord
-  - Connexion, inscription et liaison de compte avec Discord
-  - Lancement du jeu directement depuis Discord
+Reste à l'affût pour découvrir les dernières mises à jour et les nouvelles fonctionnalités !
+Nous publions les nouveautés également sur notre [serveur Discord](https://discord.gg/2Ebe5C7czE)
+
+- [Février 2026](./fevrier-2026)
