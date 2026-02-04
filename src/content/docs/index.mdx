@@ -18,8 +18,6 @@ hero:
 
 import { Card, CardGrid, LinkButton } from '@astrojs/starlight/components';
 
-{/* ## Articles à la une */}
-
 <CardGrid stagger>
 	<Card title="Nouveautés" icon="rocket">
         <LinkButton href="/news/fevrier-2026" icon="right-arrow">Découvre les nouveautés</LinkButton>
@@ -27,7 +25,7 @@ import { Card, CardGrid, LinkButton } from '@astrojs/starlight/components';
 	<Card title="Intégration avec Discord" icon="discord">
         <LinkButton href="/guides/discord/login" icon="right-arrow">Comment ça marche ?</LinkButton>
 	</Card>
-    <Card title="Système de quêtes" icon="star">
-        <LinkButton href="/guides/discord/login" icon="right-arrow">Gagne des points</LinkButton>
+    <Card title="Quêtes" icon="star">
+        <LinkButton href="/guides/quests" icon="right-arrow">Débloque des récompenses</LinkButton>
     </Card>
 </CardGrid>
