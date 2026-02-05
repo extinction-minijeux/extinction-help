@@ -25,10 +25,10 @@ description: Découvre les nouveautés et améliorations apportées à Extinctio
   - Le forum accessible depuis le jeu passe en lecture seule
   - Le nouveau forum est directement accessible et intégré à notre [serveur Discord](https://discord.gg/2Ebe5C7czE)
 
-Si vous souhaitez remonter un bug ou faire une suggestion, merci de le faire via le channel [#🛠-bugs-suggestions](https://discord.com/channels/622231984965681153/1453387579364999190)
+Si tu souhaites remonter un bug ou faire une suggestion, merci de le faire via le channel [#🛠-bugs-suggestions](https://discord.com/channels/622231984965681153/1453387579364999190).
 
 ## Remerciements
 
-Un énorme merci à [Elisa Ramos](https://www.linkedin.com/in/elisa-ramos-9939b2108/) pour la production graphique
+Un énorme merci à [Elisa Ramos](https://www.linkedin.com/in/elisa-ramos-9939b2108/) pour la production graphique.
 
-Merci également à Mezerial, Togari et Anys et les modérateurs pour leur participation et leur soutien dans le développement de cette nouvelle version du jeu
+Merci également à Mezerial, Togari et Anys et les modérateurs pour leur participation et leur soutien dans le développement de cette nouvelle version du jeu.

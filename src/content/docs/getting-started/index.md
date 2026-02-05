@@ -3,7 +3,7 @@ title: Guide de démarrage
 description: Apprends à installer et te connecter à Extinction-MiniJeux rapidement
 ---
 
-Tu découvres Extinction-MiniJeux ? Ce guide de démarrage rapide te permettra de comprendre rapidement les bases pour commencer à jouer et profiter pleinement de l'expérience
+Tu découvres Extinction-MiniJeux ? Ce guide de démarrage rapide te permettra de comprendre rapidement les bases pour commencer à jouer et profiter pleinement de l'expérience.
 
 ## Installation
 
@@ -14,7 +14,7 @@ Pour pouvoir jouer à Extinction-MiniJeux, tu as plusieurs options :
 
 ### Exceptions de sécurité (exécutable uniquement)
 
-Si tu télécharges l'exécutable, il est possible que ton antivirus, Windows Defender ou Mac bloque le lancement du jeu en raison de règles de sécurité strictes
+Si tu télécharges l'exécutable, il est possible que ton antivirus, Windows Defender ou macOS bloque le lancement du jeu en raison de règles de sécurité strictes.
 Pour résoudre ce problème, suis ces étapes :
 - Sur Windows :
   - Clique sur "Informations complémentaires" > "Exécuter quand même" dans la fenêtre d'alerte de sécurité
@@ -25,6 +25,6 @@ Pour résoudre ce problème, suis ces étapes :
 
 ## Connexion et comptes
 
-Si tu es un ancien joueur d'extinction-minijeux, pas de panique tu peux continuer à te connecter avec ton pseudo/mot de passe habituel
+Si tu es un ancien joueur d'Extinction-MiniJeux, pas de panique, tu peux continuer à te connecter avec ton pseudo et ton mot de passe habituels.
 
-Si tu souhaites t'inscrire via Discord, ou lier un compte existant, suis le guide dédié : [Connexion, inscription ou liaison avec Discord](../guides/discord/login)
+Si tu souhaites t'inscrire via Discord ou lier un compte existant, suis le guide dédié : [Connexion, inscription ou liaison avec Discord](../guides/discord/login)
